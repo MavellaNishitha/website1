@@ -1,0 +1,31 @@
+C:\Users\ehari\source\repos\Hello Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ehari\source\repos\Hello Web\bin\Debug\net6.0\appsettings.json
+C:\Users\ehari\source\repos\Hello Web\bin\Debug\net6.0\Hello Web.staticwebassets.runtime.json
+C:\Users\ehari\source\repos\Hello Web\bin\Debug\net6.0\Hello Web.exe
+C:\Users\ehari\source\repos\Hello Web\bin\Debug\net6.0\Hello Web.deps.json
+C:\Users\ehari\source\repos\Hello Web\bin\Debug\net6.0\Hello Web.runtimeconfig.json
+C:\Users\ehari\source\repos\Hello Web\bin\Debug\net6.0\Hello Web.dll
+C:\Users\ehari\source\repos\Hello Web\bin\Debug\net6.0\Hello Web.pdb
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.csproj.AssemblyReference.cache
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.AssemblyInfoInputs.cache
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.AssemblyInfo.cs
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.csproj.CoreCompileInputs.cache
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.RazorAssemblyInfo.cache
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.RazorAssemblyInfo.cs
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\staticwebassets\msbuild.Hello Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Hello Web.props
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Hello Web.props
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Hello Web.props
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\scopedcss\bundle\Hello Web.styles.css
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\scopedcss\projectbundle\Hello Web.bundle.scp.css
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.dll
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\refint\Hello Web.dll
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.pdb
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\Hello Web.genruntimeconfig.cache
+C:\Users\ehari\source\repos\Hello Web\obj\Debug\net6.0\ref\Hello Web.dll
